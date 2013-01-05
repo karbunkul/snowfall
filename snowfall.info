@@ -1,0 +1,9 @@
+name = Snowfall
+description = Snow effect for site 
+
+core = 7.x
+version = 1.0-dev
+
+package = Media 
+
+#files[] = 
